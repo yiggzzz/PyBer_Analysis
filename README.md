@@ -16,7 +16,7 @@ You have been tasked by a CEO to create an overall snapshot of the ride-sharing 
 
 ## Results
 
-![](https://github.com/yiggzzz/PyBer_Analysis/analysis/SummaryDataFrame.png)
+![SummaryDataFrame](https://github.com/yiggzzz/PyBer_Analysis/analysis/SummaryDataFrame.png)
  
     * Urban City Type: 
       The urban city type had the majority total rides and total drivers,  which also translates into the highest
@@ -34,7 +34,7 @@ You have been tasked by a CEO to create an overall snapshot of the ride-sharing 
       This too could be as a result of the low counts in total drivers and total rides. The fewer the drivers and rides, 
       the more expensive the fares.
       
-![](https://github.com/yiggzzz/PyBer_Analysis/analysis/Average_Fare_By_City_Type.png)
+![Average_Fare_By_City_Type](https://github.com/yiggzzz/PyBer_Analysis/analysis/Average_Fare_By_City_Type.png)
 
            * Urban City Type: 
        In the urban city fares are relatively high at the beginning of the month than at months end.
@@ -52,12 +52,12 @@ You have been tasked by a CEO to create an overall snapshot of the ride-sharing 
 
 * Pie Chart
 
-![](https://github.com/yiggzzz/PyBer_Analysis/analysis/Pie_charts.png)
+![Pie_charts](https://github.com/yiggzzz/PyBer_Analysis/analysis/Pie_charts.png)
 
 
 * Scatter Plot
 
-![](https://github.com/yiggzzz/PyBer_Analysis/analysis/Fig1.png)
+![Scatter_Plot](https://github.com/yiggzzz/PyBer_Analysis/analysis/Fig1.png)
         
 ## Summary        
         
